@@ -2,7 +2,7 @@
 - 👀 I’m interested in Django Dev, Coding & Apti Problems!
 - 🌱 I’m currently learning all of the above :P
 - 💞️ I’m looking to collaborate on Django Development.
-- 📫 helplearnhome@protonmail.com
+- 📫 Contact Email - helplearnhome@protonmail.com
 
 <!---
 helplearnhome/helplearnhome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
