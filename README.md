@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Raghotham
-- 👀 I’m interested in Django Dev, Coding & Apti Problems!
+- 👀 I’m interested in Coding & Apti Problems!
 - 🌱 I’m currently learning all of the above :P
-- 💞️ I’m looking to collaborate on Django Development.
+- 💞️ I’m looking to collaborate as Python Developer.
 - 📫 Contact Email - helplearnhome@protonmail.com
 
 <!---
